@@ -9,17 +9,17 @@ I'm learning Git through hands-on pracitice using GitFlow.dev
 - [x] Repository Init
 - [x] Stage & Commit
 - [x] Status, Log & Diff
-- [ ] .gitignore Mastery
-- [ ] Configuration
-- [ ] The Three Trees
-- [ ] The Object Model
-- [ ] HEAD, Refs, and the Symbolic Ref
-- [ ] Anatomy of a Commit Message
-- [ ] File Modes and Permissions
+- [X] .gitignore Mastery
+- [X] Configuration
+- [X] The Three Trees
+- [X] The Object Model
+- [X] HEAD, Refs, and the Symbolic Ref
+- [X] Anatomy of a Commit Message
+- [X] File Modes and Permissions
 
 
 ## Current progress
 **Track** Foundations
-**Completed:** 3/10
-**Current lesson:** .gitignore Mastery
+**Completed:** 10/10
+
 
